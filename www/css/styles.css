@@ -1,9 +1,10 @@
-*{
+* {
     box-sizing: border-box;
     margin 0;
 }
 
-.title{
+.title {
     text-align: Center;
-    width:100%;
+    width: 100%;
+    color: darkviolet;
 }
